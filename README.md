@@ -25,9 +25,9 @@ Traveler Agent is an interactive travel assistant built using LangGraph, LangCha
     cd traveler-agent
     ```
 
-2. Install the required Python packages:
+2. Install the required requirements.txt file:
     ```bash
-    pip install langgraph langchain-core langchain-groq
+    pip install -r requirements.txt
     ```
 
 3. Set up your Groq API key:

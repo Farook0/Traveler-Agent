@@ -25,7 +25,7 @@ Traveler Agent is an interactive travel assistant built using LangGraph, LangCha
     cd traveler-agent
     ```
 
-2. Install the required requirements.txt file:
+2. Install the requirements.txt file:
     ```bash
     pip install -r requirements.txt
     ```
